@@ -114,7 +114,4 @@ These hospitals provide the strongest environment to evaluate the impact of an e
 - Conditional Filtering (HAVING)
 - Business-Oriented Insight Communication
 
----
-
-## Repository Structure
 
