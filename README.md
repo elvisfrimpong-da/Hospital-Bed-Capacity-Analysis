@@ -50,6 +50,8 @@ A star schema was implemented to support efficient querying:
 The model ensures all bed measures are analyzed at the correct level of granularity, allowing ICU and SICU capacity to be isolated accurately.
 
 See `/schema/star_schema.png` for the diagram.
+![star schema](https://github.com/user-attachments/assets/0563b6e6-055b-4056-8fc4-eec6ea5799c1)
+
 
 ---
 
